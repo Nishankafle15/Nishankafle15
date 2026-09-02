@@ -1,36 +1,245 @@
-<h1 align="center">Hi 👋, I'm Nishan kafle</h1>
-<h3 align="center">A passionate frontend devWeb Developer | AI Explorer | Creative Builder 🚀eloper from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishankafle15&label=Profile%20views&color=0e75b6&style=flat" alt="nishankafle15" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:7C3AED&height=220&section=header&text=NISHAN%20KAFLE&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=WEB%20DEVELOPER%20%7C%20AI%20EXPLORER%20%7C%20CREATIVE%20BUILDER&descAlignY=58&descSize=15" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishankafle15" alt="nishankafle15" /></a> </p>
+<br>
 
-<p align="left"> <a href="https://twitter.com/nishankafle15" target="blank"><img src="https://img.shields.io/twitter/follow/nishankafle15?logo=twitter&style=for-the-badge" alt="nishankafle15" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Building+Modern+Web+Experiences+%F0%9F%8C%90;Exploring+AI+%26+APIs+%F0%9F%A4%96;Turning+Ideas+Into+Projects+%F0%9F%9A%80;Always+Learning.+Always+Building.+%E2%9C%A8" alt="Typing Animation"/>
 
-- 🔭 I’m currently working on **AfterLight**
+<br><br>
 
-- 🌱 I’m currently learning **Content Creation**
+<a href="https://github.com/Nishankafle15">
+<img src="https://komarev.com/ghpvc/?username=Nishankafle15&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
+</a>
 
-- 👯 I’m looking to collaborate on **AfterLight**
+<a href="https://github.com/Nishankafle15?tab=repositories">
+<img src="https://img.shields.io/github/stars/Nishankafle15?label=STARS&style=for-the-badge&color=7C3AED&logo=github" alt="GitHub Stars"/>
+</a>
 
-- 💬 Ask me about **Full stack Dev**
+<a href="https://github.com/Nishankafle15?tab=followers">
+<img src="https://img.shields.io/github/followers/Nishankafle15?label=FOLLOWERS&style=for-the-badge&color=7C3AED&logo=github" alt="GitHub Followers"/>
+</a>
 
-- 📫 How to reach me **nishankafle022@gmail.com**
+</div>
 
-- ⚡ Fun fact **I am doom**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nishankafle15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishankafle15" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nishan kafle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishan kafle" height="30" width="40" /></a>
-</p>
+## 👋 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://offeescript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  👨‍💻 Web Developer                                          │
+│  🤖 AI Explorer                                             │
+│  🌐 Building modern web applications                        │
+│  🎵 Creating creative & music-focused projects              │
+│  🔗 Exploring APIs and real-time applications               │
+│  🧠 Learning and improving every day                         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishankafle15&show_icons=true&locale=en&layout=compact" alt="nishankafle15" /></p>
+I enjoy turning ideas into useful digital experiences and experimenting with modern web technologies, APIs and AI-powered applications.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishankafle15&show_icons=true&locale=en" alt="nishankafle15" /></p>
+My goal is simple:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishankafle15&" alt="nishankafle15" /></p>
+> **Build useful things, learn continuously, and turn ideas into reality. 🚀**
+
+---
+
+# 🚀 What I'm Working On
+
+| 🔭 Current     | 🌱 Learning            | 🤝 Collaboration             |
+| :------------- | :--------------------- | :--------------------------- |
+| **AfterLight** | Content Creation       | Open to interesting projects |
+| Web Projects   | JavaScript & APIs      | Creative Web Apps            |
+| AI Experiments | Full-Stack Development | AI-powered ideas             |
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+### Exploring
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,supabase&theme=dark" />
+
+</div>
+
+> **Note:** I intentionally removed the huge automatically generated technology list from the old README. It contained many technologies that may not represent your actual current skill set. Your profile looks more professional when the stack reflects what you genuinely use.
+
+---
+
+# 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Nishankafle15/music-player-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishankafle15&repo=music-player-&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Nishankafle15/html-css-js-portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishankafle15&repo=html-css-js-portfolio&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/Nishankafle15/Nishankafle15-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishankafle15&repo=Nishankafle15-&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Nishankafle15/Nishankafle15.github.io">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishankafle15&repo=Nishankafle15.github.io&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/Nishankafle15">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nishankafle15&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=FFFFFF&ring_color=7C3AED" />
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishankafle15&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=FFFFFF" />
+
+</a>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/Nishankafle15">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishankafle15&bg_color=0D1117&color=FFFFFF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Nishan Kafle GitHub Activity Graph"/>
+
+</a>
+
+</div>
+
+---
+
+# 💻 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishankafle15&layout=donut-vertical&langs_count=8&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF" height="300"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nishankafle15&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="100%" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+# 🐍 My Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation"/>
+
+</div>
+
+---
+
+# 📊 GitHub Summary
+
+<div align="center">
+
+<a href="https://github.com/Nishankafle15">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishankafle15&theme=tokyonight" width="100%" alt="GitHub Profile Summary"/>
+
+</a>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  🚀 Build more real-world applications                     │
+│  🤖 Create AI-powered projects                              │
+│  🌐 Improve full-stack development                          │
+│  🔗 Work with APIs and real-time data                       │
+│  💡 Turn creative ideas into useful products                │
+│  📚 Keep learning and improving                             │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# ⚡ Developer Mindset
+
+<div align="center">
+
+### BUILD → LEARN → IMPROVE → REPEAT
+
+<br>
+
+**"The best way to learn technology is to build with it."**
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Nishankafle15">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nishan-kafle-19373b275/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nishankafle022@gmail.com">
+<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1500&color=7C3AED&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Keep+Building+%F0%9F%9A%80;Keep+Learning+%F0%9F%A7%A0;Keep+Creating+%E2%9C%A8" alt="Footer Typing Animation"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:7C3AED&height=120&section=footer" width="100%"/>
+
+</div>
+
 
