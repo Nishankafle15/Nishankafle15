@@ -228,6 +228,23 @@ My goal is simple:
 <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+
+<p align="center">
+  <a href="https://instagram.com/nishankafle_15">
+    <img src="https://img.shields.io/badge/Instagram-nishankafle__15-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/">
+    <img src="https://img.shields.io/badge/Facebook-Nishan%20Kafle-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nishan-kafle-19373b275/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nishan%20Kafle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nishankafle022@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
 </div>
 
 ---
